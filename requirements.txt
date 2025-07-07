@@ -2,5 +2,4 @@ ultralytics
 easyocr
 opencv-python-headless
 flask
-cv2
 matplotlib
